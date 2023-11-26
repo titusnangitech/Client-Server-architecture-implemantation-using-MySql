@@ -2,11 +2,8 @@
 Implementing a Client Server Architecture using MySQL Database Management System (DBMS)
 
 
-![animatedAch](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/4ac11611-808c-40f6-b4d1-62f0b39f0989)
+![client-server](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/12d002f3-b7ca-4cef-9ac3-ad26af45ed2d)
 
-
-
-![secondArch](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/7e35418d-5c0d-4da4-9737-f298bcc2e308)
 
 **created 2 ec2 instances**
 
