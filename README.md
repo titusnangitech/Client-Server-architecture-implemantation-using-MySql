@@ -19,9 +19,23 @@
 - **Connect to the 2 instances using Mobaxterm and swictched to root user**
 
 - **update the apt peckage for the server**
-- ```
+  
+ ```
   apt update -y
   ```
+
+ - **Install mysql-server**
+ ```
+apt install mysql-server
+
+```
+
+- **Enable mysql**
+
+```
+systemctl enable mysql
+```
+
 
 
 - **On mysql server Linux Server install MySQL Server software.**
