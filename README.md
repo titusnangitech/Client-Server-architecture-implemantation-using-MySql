@@ -1,4 +1,4 @@
-# Implementing a Client Server Architecture using MySQL Database Management System (DBMS)
+# Implementing a Client-Server Architecture using MySQL Database Management System (DBMS)
 
 
 ![client-server](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/12d002f3-b7ca-4cef-9ac3-ad26af45ed2d)
