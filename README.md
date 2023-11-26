@@ -10,3 +10,8 @@
 
 
 ![new ec2 instances created](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/c562a1b0-4de2-4597-82ab-2eef6b6a3187)
+
+
+- **On mysql server Linux Server install MySQL Server software.**
+
+- **On mysql client Linux Server install MySQL Client software.**
