@@ -4,10 +4,6 @@
 ![client-server](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/12d002f3-b7ca-4cef-9ac3-ad26af45ed2d)
 
 
-
-![animatedAch](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/74436e9e-c820-47d1-88eb-7f0fbc38c54b)
-
-
 - **Created 2 ec2 instances that is mysql client and mysql server**
 
 
