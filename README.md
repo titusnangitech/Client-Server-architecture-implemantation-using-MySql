@@ -79,8 +79,13 @@ systemctl enable mysql
 
 ```
 # Created User
+ CREATE USER `remote_user`@`%` IDENTIFIED WITH mysql_native_password BY `password`;
 
 # Created database
+CREATE DATABASE test_db;
+
+# Grant privileges
+GRANT ALL ON test_db* TO `remote_user`@`%`WITH GRANT OPTION; 
 ```
   
 
@@ -88,14 +93,19 @@ systemctl enable mysql
 
 - **configure MySQL server to allow connections from remote hosts.**
 
-  ```
+```
   sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
-  ```
+```
+
 
 ![changing the msql file in th etc folder though vi](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/2b79609c-8352-4f28-a593-15ab513cc307)
 
 - **Replace ‘127.0.0.1’ to ‘0.0.0.0’**
+
+  
 ![editing the sql file using vi](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/db48364d-af0e-49a8-856d-2fe228cc5bc5)
+
+
 
 - **Restart mysql**
 ![restart sql](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/ed7a021c-fe92-47a6-a23e-0fe99c6fc955)
