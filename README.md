@@ -4,7 +4,7 @@
 ![client-server](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/12d002f3-b7ca-4cef-9ac3-ad26af45ed2d)
 
 
-- *Created 2 ec2 instances that is DB server and client**
+- *Created 2 ec2 instances that is mysql client and mysql server**
 
 
-![created 2 ec2 instances](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/e4194018-780c-4aef-94f4-f65e6f9d80a8)
+![new ec2 instances created](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/c562a1b0-4de2-4597-82ab-2eef6b6a3187)
