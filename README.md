@@ -108,6 +108,8 @@ GRANT ALL ON test_db* TO `remote_user`@`%`WITH GRANT OPTION;
 
 
 - **Restart mysql**
+
+  
 ![restart sql](https://github.com/titusnangitech/Client-Server-architecture-implemantation-using-MySql/assets/128609800/ed7a021c-fe92-47a6-a23e-0fe99c6fc955)
 
 
